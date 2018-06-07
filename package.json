@@ -1,0 +1,34 @@
+{
+  "name": "q-components",
+  "version": "1.0.0",
+  "description": "A collection of useful React components from Qode Creative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "tags": [
+    "react",
+    "component",
+    "components",
+    "currency",
+    "currency input",
+    "checkbox",
+    "checkbox tree"
+  ],
+  "keywords": [
+    "react",
+    "react-component",
+    "qode creative",
+    "currency input"
+  ],
+  "author": "Qodesmith",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  },
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
